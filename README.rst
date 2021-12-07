@@ -1,41 +1,20 @@
-AlertOps Expert Guidance
+AlertOps Flexibility
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
-
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
-
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
-
-Automate Processes
+Total Flexibility, No compromise
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+We believe that our customers should not have to make compromises in their business process to implement and use AlertOps. AlertOps offers total flexibility, meaning it is highly configurable, legitimately addressing your pain points. One of our core tenets, that we use from our ideation stage of our product roadmap, thinking through the various design aspect to allow the maximum flexibility for the user to configure the software to their needs. Leveraging process principles and best practices from established definitions of incident management, including the likes of ITIL, ISO, KCS among others.
 
-Clarity
+Why AlertOps?
 ====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Our software plays very well with others, supporting integrations into hundreds of business applications and web services, working with your tools to make them even more powerful. We understand that every customer situation is unique, AlertOps is able to handle these having implemented and managed several customers ranging from large enterprise to small businesses. You can customize everything from data fields, to dynamic routing, or even outbound actions, all specific to your exact situation. For instance, AlertOps utilizes decoupled escalation, an innovative feature that offers even more flexibility; allowing you to escalate an incident between teams, or even create user specific notifications. This is not a feature that you will find with some of our competitors, like PagerDuty, OpsGenie or others. You don’t just have one primary and secondary responder, so you should be able to alert more than one. Our tool can be customized to have multiple primary and secondary responders, ensuring that critical incidents always get the attention they need. It is feature such as these that make AlertOps the preferred choice for our loyal customers.
+AlertOps: Complete Control and Flexibility
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
-
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
+AlertOps was built ground up for an enterprise, to support custom and complex escalations and notification processes. With 10 years of bolstering our solution, AlertOps is prepared to handle any situation allowing our users enhanced visibility, control and vital flexibility. You can catch us often telling our customers “your data, your processes, your way.”
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
-
+https://alertops.com/alertops-flexibility/
 Read more:
 ====
 
